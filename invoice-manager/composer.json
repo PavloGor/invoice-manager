@@ -1,0 +1,22 @@
+{
+    "name": "your-vendor/invoice-manager",
+    "description": "Laravel 12 Invoice Manager Package",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "InvoiceManager\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=8.2",
+        "illuminate/support": "^12.0"
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "InvoiceManager\\InvoiceManagerServiceProvider"
+            ]
+        }
+    }
+}
