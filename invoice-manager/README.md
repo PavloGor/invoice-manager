@@ -4,6 +4,8 @@
 
 Повнофункціональний пакет для управління інвойсами в Laravel з сучасним фронтендом на Bootstrap 5. Пакет включає повний CRUD функціонал, генерацію PDF та email-розсилку.
 
+![CodeRabbit Pull Request Reviews](https://img.shields.io/coderabbit/prs/github/PavloGor/invoice-manager?utm_source=oss&utm_medium=github&utm_campaign=PavloGor%2Finvoice-manager&labelColor=171717&color=FF570A&link=https%3A%2F%2Fcoderabbit.ai&label=CodeRabbit+Reviews)
+
 ## ✨ Функції
 
 - ✅ **CRUD операції** - створення, редагування, перегляд та видалення інвойсів
